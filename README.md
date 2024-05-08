@@ -1,4 +1,4 @@
-# GitHub-Simulator-Project
+![image](https://github.com/rafay9623/GitHub-Simulator-Project/assets/169294276/d08a76b6-e914-4a91-947e-a6926c100b39)# GitHub-Simulator-Project
 Concepts of Hashing, Graphs and Trees used to manage this complete project
 
 # Main Screen of Console
@@ -15,4 +15,8 @@ Concepts of Hashing, Graphs and Trees used to manage this complete project
 
 # Search Repo
 ![image](https://github.com/rafay9623/GitHub-Simulator-Project/assets/152520370/f82237f0-66cc-4e99-92da-08d2f4a7fddc)
+
+# Add File in Repo
+![image](https://github.com/rafay9623/GitHub-Simulator-Project/assets/169294276/989a0ffc-97d7-43b9-bc3c-c6edf795a6a5)
+![image](https://github.com/rafay9623/GitHub-Simulator-Project/assets/169294276/322865ec-0cda-438e-8a3a-95f0e18c8a44)
 
